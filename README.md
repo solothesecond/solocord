@@ -1,7 +1,6 @@
-<img src="public/vistachat.png" alt="Vistachat" width="300"/>
 
-Vistachat is a chatroom website, with the design heavily inspired by Windows Vista, literally the best windows version ever
 
+solocord is a chatroom website, with the design heavily inspired by discord, literally the best chat servise ev
 ## Features
 
 - **Real-Time Talking**: Be able to talk in live time, powered by Socket.io.
@@ -9,7 +8,7 @@ Vistachat is a chatroom website, with the design heavily inspired by Windows Vis
 
 ## Getting Started
 
-To set up your own copy of Vistachat, follow these steps:
+To set up your own copy of solocord, follow these steps:
 
 1. **Fork the Repository**: Click the "Fork" button on this repository.
    
@@ -26,8 +25,7 @@ After doing these steps, you're all ready to use vistachat! :D
 
 ## Credits
 
-- **Developer**: [Szvy](https://szvy.win/) - really cool developer that made this.
-- **Developer**: [Sky](https://skys.day) - helped out a lot with patching xss.
+- **Developer**: [solo](https://soloo.fun/) - really cool developer that made this.
 - **Libraries Used**: 
   - [Socket.IO](https://socket.io/) - really cool nodejs library that lets you have live time chatting.
 
